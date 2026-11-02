@@ -35,7 +35,7 @@
         <junit.version>5.13.2</junit.version>
         <mockito.version>5.18.0</mockito.version>
         <maven-checkstyle-plugin.version>3.6.0</maven-checkstyle-plugin.version>
-        <assertj.version>3.27.3</assertj.version>
+        <assertj.version>3.27.7</assertj.version>
         <maven-surefire-plugin.version>3.5.3</maven-surefire-plugin.version>
     </properties>
 
@@ -363,7 +363,7 @@
         <dependency>
             <groupId>com.google.guava</groupId>
             <artifactId>guava</artifactId>
-            <version>33.4.8-jre</version>
+            <version>33.7.1-jre</version>
             <scope>test</scope>
         </dependency>
     </dependencies>
